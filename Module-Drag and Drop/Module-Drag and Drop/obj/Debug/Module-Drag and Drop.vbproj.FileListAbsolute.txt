@@ -1,0 +1,12 @@
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\bin\Debug\Module-Drag and Drop.exe.config
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\bin\Debug\Module-Drag and Drop.exe
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\bin\Debug\Module-Drag and Drop.pdb
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\bin\Debug\Module-Drag and Drop.xml
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\obj\Debug\Module_Drag_and_Drop.DragAndDrop.resources
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\obj\Debug\Module_Drag_and_Drop.Resources.resources
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\obj\Debug\Module-Drag and Drop.vbproj.GenerateResource.Cache
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\obj\Debug\Module-Drag and Drop.vbproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\obj\Debug\Module-Drag and Drop.exe
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\obj\Debug\Module-Drag and Drop.xml
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\obj\Debug\Module-Drag and Drop.pdb
+C:\Users\sarah\source\repos\Module-Drag and Drop\Module-Drag and Drop\obj\Debug\Module-Drag and Drop.vbprojResolveAssemblyReference.cache
